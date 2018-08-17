@@ -17,7 +17,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".Compartment" />
-        <activity android:name=".Compartment1"></activity>
+        <activity android:name=".Compartment1" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".compartment2" />
+        <activity android:name=".compartment3" />
+        <activity android:name=".compartment4" />
+        <activity android:name=".compartment5" />
+        <activity android:name=".compartment6" />
+        <activity android:name=".compartment7" />
+        <activity android:name=".compartment8" />
+        <activity android:name=".compartment9"></activity>
     </application>
 
 </manifest>
