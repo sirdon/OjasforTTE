@@ -19,7 +19,8 @@
         android:layout_marginTop="0dp"
         android:hint="@string/user"
         android:drawableLeft="@drawable/email1"
-        android:inputType="textEmailAddress" />
+        android:inputType="textEmailAddress"
+        android:drawableStart="@drawable/email1" />
 
     <EditText
         android:id="@+id/editText"
@@ -29,7 +30,8 @@
         android:layout_marginTop="10dp"
         android:drawableLeft="@drawable/password"
         android:hint="@string/password"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:drawableStart="@drawable/password" />
 
     <Button
         android:id="@+id/button"
