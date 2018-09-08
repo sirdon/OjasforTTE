@@ -22,5 +22,12 @@
     <string name="_15">15</string>
     <string name="_16">16</string>
     <string name="save">save</string>
+    <string name="title_activity_spinner">Spinner</string>
+    <string-array name="Coaches">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+
+    </string-array>
 
 </resources>
